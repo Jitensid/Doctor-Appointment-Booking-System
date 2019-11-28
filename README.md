@@ -29,5 +29,5 @@ This application consists of two interfaces : 1)admin 2)User
             A mail will be sent to your given email contaning information of your appointment.  
             In myprofile section there will be a button for simple chatbot Alex based on direct string comparison, you can check for list of supported input in *gchat.txt* file.  
         
-**Thanks for visiting...  
-Suggetions are welcome....**
+**Thank you for visiting...  
+Suggestions are always welcome....**
